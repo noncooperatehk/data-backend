@@ -1,0 +1,1033 @@
+{
+  "id": "7d71841f-4725-416a-b86e-778a6e0c0e66",
+  "type": "root",
+  "children": [
+    {
+      "type": "heading",
+      "depth": 4,
+      "children": [
+        {
+          "type": "text",
+          "value": "食店資料",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 6,
+              "offset": 168
+            },
+            "end": {
+              "line": 14,
+              "column": 10,
+              "offset": 172
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 14,
+          "column": 1,
+          "offset": 163
+        },
+        "end": {
+          "line": 14,
+          "column": 10,
+          "offset": 172
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "維特健靈 Vita Green",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 1,
+              "offset": 173
+            },
+            "end": {
+              "line": 15,
+              "column": 16,
+              "offset": 188
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 15,
+          "column": 1,
+          "offset": 173
+        },
+        "end": {
+          "line": 15,
+          "column": 16,
+          "offset": 188
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 4,
+      "children": [
+        {
+          "type": "text",
+          "value": "狀態",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 6,
+              "offset": 195
+            },
+            "end": {
+              "line": 17,
+              "column": 8,
+              "offset": 197
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 17,
+          "column": 1,
+          "offset": 190
+        },
+        "end": {
+          "line": 17,
+          "column": 8,
+          "offset": 197
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Fact Checked",
+          "position": {
+            "start": {
+              "line": 18,
+              "column": 1,
+              "offset": 198
+            },
+            "end": {
+              "line": 18,
+              "column": 13,
+              "offset": 210
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 18,
+          "column": 1,
+          "offset": 198
+        },
+        "end": {
+          "line": 18,
+          "column": 13,
+          "offset": 210
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "children": [
+        {
+          "type": "text",
+          "value": "詳情",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 4,
+              "offset": 215
+            },
+            "end": {
+              "line": 20,
+              "column": 6,
+              "offset": 217
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 20,
+          "column": 1,
+          "offset": 212
+        },
+        "end": {
+          "line": 20,
+          "column": 6,
+          "offset": 217
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 5,
+      "children": [
+        {
+          "type": "text",
+          "value": "10/7/2019",
+          "position": {
+            "start": {
+              "line": 22,
+              "column": 7,
+              "offset": 225
+            },
+            "end": {
+              "line": 22,
+              "column": 16,
+              "offset": 234
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 22,
+          "column": 1,
+          "offset": 219
+        },
+        "end": {
+          "line": 22,
+          "column": 16,
+          "offset": 234
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "linkReference",
+          "identifier": "lihkg-link",
+          "label": "lihkg-link",
+          "referenceType": "full",
+          "children": [
+            {
+              "type": "text",
+              "value": "網民於10/7/2019開Post",
+              "position": {
+                "start": {
+                  "line": 23,
+                  "column": 2,
+                  "offset": 236
+                },
+                "end": {
+                  "line": 23,
+                  "column": 19,
+                  "offset": 253
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 1,
+              "offset": 235
+            },
+            "end": {
+              "line": 23,
+              "column": 32,
+              "offset": 266
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "text",
+          "value": "，指出",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 32,
+              "offset": 266
+            },
+            "end": {
+              "line": 23,
+              "column": 35,
+              "offset": 269
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "linkReference",
+          "identifier": "legco-doc",
+          "label": "legco-doc",
+          "referenceType": "full",
+          "children": [
+            {
+              "type": "text",
+              "value": "議員何君堯於09/02/2018的立法會文件",
+              "position": {
+                "start": {
+                  "line": 23,
+                  "column": 36,
+                  "offset": 270
+                },
+                "end": {
+                  "line": 23,
+                  "column": 58,
+                  "offset": 292
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 35,
+              "offset": 269
+            },
+            "end": {
+              "line": 23,
+              "column": 70,
+              "offset": 304
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "text",
+          "value": "中，登記為「維特健靈Doctor's Choice醫之選」受雇為受薪顧問。",
+          "position": {
+            "start": {
+              "line": 23,
+              "column": 70,
+              "offset": 304
+            },
+            "end": {
+              "line": 23,
+              "column": 107,
+              "offset": 341
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 23,
+          "column": 1,
+          "offset": 235
+        },
+        "end": {
+          "line": 23,
+          "column": 107,
+          "offset": 341
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "title": null,
+          "url": "https://i.imgur.com/hIykzas.png",
+          "alt": "Imgur",
+          "position": {
+            "start": {
+              "line": 25,
+              "column": 1,
+              "offset": 343
+            },
+            "end": {
+              "line": 25,
+              "column": 42,
+              "offset": 384
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 25,
+          "column": 1,
+          "offset": 343
+        },
+        "end": {
+          "line": 25,
+          "column": 42,
+          "offset": 384
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 5,
+      "children": [
+        {
+          "type": "text",
+          "value": "24/7/2019",
+          "position": {
+            "start": {
+              "line": 27,
+              "column": 7,
+              "offset": 392
+            },
+            "end": {
+              "line": 27,
+              "column": 16,
+              "offset": 401
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 27,
+          "column": 1,
+          "offset": 386
+        },
+        "end": {
+          "line": 27,
+          "column": 16,
+          "offset": 401
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "linkReference",
+          "identifier": "vita-green-fb",
+          "label": "vita-green-fb",
+          "referenceType": "full",
+          "children": [
+            {
+              "type": "text",
+              "value": "維特健靈於24/7/2019在Facebook專頁",
+              "position": {
+                "start": {
+                  "line": 28,
+                  "column": 2,
+                  "offset": 403
+                },
+                "end": {
+                  "line": 28,
+                  "column": 27,
+                  "offset": 428
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 28,
+              "column": 1,
+              "offset": 402
+            },
+            "end": {
+              "line": 28,
+              "column": 43,
+              "offset": 444
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "text",
+          "value": "聲稱「本集團及其下品牌與何君堯律師之顧問服務於2018年中前已經結束。」 ",
+          "position": {
+            "start": {
+              "line": 28,
+              "column": 43,
+              "offset": 444
+            },
+            "end": {
+              "line": 28,
+              "column": 80,
+              "offset": 481
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 28,
+          "column": 1,
+          "offset": 402
+        },
+        "end": {
+          "line": 28,
+          "column": 80,
+          "offset": 481
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "image",
+          "title": null,
+          "url": "https://i.imgur.com/O1D2Fq5.png",
+          "alt": "Imgur",
+          "position": {
+            "start": {
+              "line": 30,
+              "column": 1,
+              "offset": 483
+            },
+            "end": {
+              "line": 30,
+              "column": 42,
+              "offset": 524
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 30,
+          "column": 1,
+          "offset": 483
+        },
+        "end": {
+          "line": 30,
+          "column": 42,
+          "offset": 524
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 4,
+      "children": [
+        {
+          "type": "text",
+          "value": "地址",
+          "position": {
+            "start": {
+              "line": 32,
+              "column": 6,
+              "offset": 531
+            },
+            "end": {
+              "line": 32,
+              "column": 8,
+              "offset": 533
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 32,
+          "column": 1,
+          "offset": 526
+        },
+        "end": {
+          "line": 32,
+          "column": 8,
+          "offset": 533
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "大埔工業村大喜街18號",
+          "position": {
+            "start": {
+              "line": 33,
+              "column": 1,
+              "offset": 534
+            },
+            "end": {
+              "line": 33,
+              "column": 12,
+              "offset": 545
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 33,
+          "column": 1,
+          "offset": 534
+        },
+        "end": {
+          "line": 33,
+          "column": 12,
+          "offset": 545
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 4,
+      "children": [
+        {
+          "type": "text",
+          "value": "相關文章",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 6,
+              "offset": 552
+            },
+            "end": {
+              "line": 35,
+              "column": 10,
+              "offset": 556
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 35,
+          "column": 1,
+          "offset": 547
+        },
+        "end": {
+          "line": 35,
+          "column": 10,
+          "offset": 556
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "start": null,
+      "spread": false,
+      "children": [
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "linkReference",
+                  "identifier": "lihkg-link",
+                  "label": "lihkg-link",
+                  "referenceType": "full",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "連登: 議員: 何君堯 \"維特健靈Doctor's Choice醫之選的受薪顧問\"",
+                      "position": {
+                        "start": {
+                          "line": 36,
+                          "column": 4,
+                          "offset": 560
+                        },
+                        "end": {
+                          "line": 36,
+                          "column": 45,
+                          "offset": 601
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 36,
+                      "column": 3,
+                      "offset": 559
+                    },
+                    "end": {
+                      "line": 36,
+                      "column": 58,
+                      "offset": 614
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 36,
+                  "column": 3,
+                  "offset": 559
+                },
+                "end": {
+                  "line": 36,
+                  "column": 58,
+                  "offset": 614
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 36,
+              "column": 1,
+              "offset": 557
+            },
+            "end": {
+              "line": 36,
+              "column": 58,
+              "offset": 614
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "linkReference",
+                  "identifier": "legco-doc",
+                  "label": "legco-doc",
+                  "referenceType": "full",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "立法會何君堯個人利益登記冊受薪工作及職位分頁",
+                      "position": {
+                        "start": {
+                          "line": 37,
+                          "column": 4,
+                          "offset": 618
+                        },
+                        "end": {
+                          "line": 37,
+                          "column": 26,
+                          "offset": 640
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 37,
+                      "column": 3,
+                      "offset": 617
+                    },
+                    "end": {
+                      "line": 37,
+                      "column": 38,
+                      "offset": 652
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 37,
+                  "column": 3,
+                  "offset": 617
+                },
+                "end": {
+                  "line": 37,
+                  "column": 38,
+                  "offset": 652
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 37,
+              "column": 1,
+              "offset": 615
+            },
+            "end": {
+              "line": 37,
+              "column": 38,
+              "offset": 652
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "linkReference",
+                  "identifier": "vita-green-fb",
+                  "label": "vita-green-fb",
+                  "referenceType": "full",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "維特健靈Facebook專頁",
+                      "position": {
+                        "start": {
+                          "line": 38,
+                          "column": 4,
+                          "offset": 656
+                        },
+                        "end": {
+                          "line": 38,
+                          "column": 18,
+                          "offset": 670
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 38,
+                      "column": 3,
+                      "offset": 655
+                    },
+                    "end": {
+                      "line": 38,
+                      "column": 34,
+                      "offset": 686
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 38,
+                  "column": 3,
+                  "offset": 655
+                },
+                "end": {
+                  "line": 38,
+                  "column": 34,
+                  "offset": 686
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 38,
+              "column": 1,
+              "offset": 653
+            },
+            "end": {
+              "line": 38,
+              "column": 34,
+              "offset": 686
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 36,
+          "column": 1,
+          "offset": 557
+        },
+        "end": {
+          "line": 38,
+          "column": 34,
+          "offset": 686
+        },
+        "indent": [
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 4,
+      "children": [
+        {
+          "type": "text",
+          "value": "分店資料",
+          "position": {
+            "start": {
+              "line": 40,
+              "column": 6,
+              "offset": 693
+            },
+            "end": {
+              "line": 40,
+              "column": 10,
+              "offset": 697
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 40,
+          "column": 1,
+          "offset": 688
+        },
+        "end": {
+          "line": 40,
+          "column": 10,
+          "offset": 697
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "於屈臣氏及萬寧均有代售",
+          "position": {
+            "start": {
+              "line": 41,
+              "column": 1,
+              "offset": 698
+            },
+            "end": {
+              "line": 41,
+              "column": 12,
+              "offset": 709
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 41,
+          "column": 1,
+          "offset": 698
+        },
+        "end": {
+          "line": 41,
+          "column": 12,
+          "offset": 709
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "definition",
+      "identifier": "lihkg-link",
+      "label": "lihkg-link",
+      "title": null,
+      "url": "https://lihkg.com/thread/1301544/page/1",
+      "position": {
+        "start": {
+          "line": 43,
+          "column": 1,
+          "offset": 711
+        },
+        "end": {
+          "line": 43,
+          "column": 54,
+          "offset": 764
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "definition",
+      "identifier": "legco-doc",
+      "label": "legco-doc",
+      "title": null,
+      "url": "https://www.legco.gov.hk/general/chinese/cmi/yr16-20/hky/hky_2.1_20180209_01_c.pdf",
+      "position": {
+        "start": {
+          "line": 44,
+          "column": 1,
+          "offset": 765
+        },
+        "end": {
+          "line": 44,
+          "column": 96,
+          "offset": 860
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "definition",
+      "identifier": "vita-green-fb",
+      "label": "vita-green-fb",
+      "title": null,
+      "url": "https://www.facebook.com/vitagreenhk/posts/2616009998433264",
+      "position": {
+        "start": {
+          "line": 45,
+          "column": 1,
+          "offset": 861
+        },
+        "end": {
+          "line": 45,
+          "column": 77,
+          "offset": 937
+        },
+        "indent": []
+      }
+    }
+  ],
+  "position": {
+    "start": {
+      "line": 1,
+      "column": 1,
+      "offset": 0
+    },
+    "end": {
+      "line": 45,
+      "column": 77,
+      "offset": 937
+    }
+  }
+}
