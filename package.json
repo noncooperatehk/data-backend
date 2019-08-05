@@ -1,0 +1,13 @@
+{
+  "name": "data-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "noncooperatehk-data-handler": "^1.0.3"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.5.5",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/register": "^7.5.5"
+  }
+}
