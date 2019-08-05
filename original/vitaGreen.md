@@ -3,14 +3,14 @@ id: "7d71841f-4725-416a-b86e-778a6e0c0e66"
 
 previewImageUrl: https://i.imgur.com/oNoFdVa.png
 
+name: "維特健靈 Vita Green"
+
 tags:
 - medicine
 
 addresses:
-- 大埔工業村大喜街18號
+- { address: "大埔工業村大喜街18號", latitude: 22.317118, longitude: 114.265613 }
 
-locations:
-- { longitude: 22.454294, latitude: 114.190028 }
 ---
 
 #### 食店資料
