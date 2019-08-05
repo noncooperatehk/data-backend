@@ -1,12 +1,35 @@
 import {highLevelParser} from "noncooperatehk-data-handler";
+import indexJson from "./index.json"
+import fs from "fs";
+import _ from "lodash";
 
-const contentStr = "---\n" +
-  "test: 1\n" +
-  "---" +
-  "content";
+const fsPromises = fs.promises;
 
-async function main() {
-  return highLevelParser.parseString(contentStr)
+if (process.argv.length < 3) {
+  console.log(`usage: node index.js filePath`);
+  process.exit(1);
 }
 
-main().then(r => console.log(r)).catch(e => console.log(e.stack));
+let filName = process.argv[2];
+
+async function main(fileName) {
+  let fullPath = `${__dirname}/${fileName}`;
+  let [frontMatterJson, ast, mdStr] = await highLevelParser.parseFile(fullPath);
+  await updateIndexJson(frontMatterJson);
+}
+
+async function updateIndexJson(frontMatterJson) {
+  if (!_.get(frontMatterJson, 'id')) throw new FormatException(`missing id in frontMatter. received: ${frontMatterJson}`);
+  let filePath = `${__dirname}/index.json`;
+  let updated = indexJson
+    .filter(x => x.companyId !== frontMatterJson.id)
+    .concat([frontMatterJson]);
+  return fsPromises.writeFile(filePath, JSON.stringify(updated, null, "  "));
+}
+
+function FormatException(message) {
+  this.message = message;
+  this.name = 'FormatException';
+}
+
+main(filName).then(r => console.log(r)).catch(e => console.log(e.stack));

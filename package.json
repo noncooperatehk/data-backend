@@ -2,6 +2,7 @@
   "name": "data-backend",
   "version": "1.0.0",
   "dependencies": {
+    "lodash": "^4.17.15",
     "noncooperatehk-data-handler": "^1.0.3"
   },
   "devDependencies": {
