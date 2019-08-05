@@ -20,10 +20,11 @@ async function main(fileName) {
 
 async function updateIndexJson(frontMatterJson) {
   if (!_.get(frontMatterJson, 'id')) throw new FormatException(`missing id in frontMatter. received: ${frontMatterJson}`);
+  let objectWithKeyRenamed = _.mapKeys(frontMatterJson, (value, key) => key === 'id' ? 'companyId' : key);
   let filePath = `${__dirname}/index.json`;
   let updated = indexJson
     .filter(x => x.companyId !== frontMatterJson.id)
-    .concat([frontMatterJson]);
+    .concat([objectWithKeyRenamed]);
   return fsPromises.writeFile(filePath, JSON.stringify(updated, null, "  "));
 }
 

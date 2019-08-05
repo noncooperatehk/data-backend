@@ -1,65 +1,6 @@
 [
   {
-    "id": "ff57dde6-c791-486a-8e17-8a1fcee9c434",
-    "previewImageUrl": "https://i.imgur.com/0juwxso.jpg",
-    "tags": [
-      "Restaurant"
-    ],
-    "addresses": [
-      {
-        "address": "坑口東港城第一層 197A 號舖",
-        "longitude": 22.317118,
-        "latitude": 114.265613
-      },
-      {
-        "address": "旺角朗豪坊 13 樓 6 號舖",
-        "longitude": 22.318074,
-        "latitude": 114.169024
-      },
-      {
-        "address": "新蒲崗 Mikiki 一樓 111 號舖",
-        "longitude": 22.333864,
-        "latitude": 114.196946
-      },
-      {
-        "address": "沙田置富第一城 1 樓 104-105 號舖",
-        "longitude": 22.386587,
-        "latitude": 114.203313
-      },
-      {
-        "address": "寶琳新都城中心 2 期 2 樓",
-        "longitude": 22.323069,
-        "latitude": 114.258455
-      },
-      {
-        "address": "柴灣杏花新城 2 樓 209 號舖",
-        "longitude": 22.276973,
-        "latitude": 114.239957
-      },
-      {
-        "address": "坑口東港城第一層",
-        "longitude": 22.317038,
-        "latitude": 114.266225
-      }
-    ]
-  },
-  {
-    "id": "7d71841f-4725-416a-b86e-778a6e0c0e66",
-    "previewImageUrl": "https://i.imgur.com/oNoFdVa.png",
-    "name": "維特健靈 Vita Green",
-    "tags": [
-      "medicine"
-    ],
-    "addresses": [
-      {
-        "address": "大埔工業村大喜街18號",
-        "longitude": 22.317118,
-        "latitude": 114.265613
-      }
-    ]
-  },
-  {
-    "id": "7d71841f-4725-416a-b86e-778a6e0c0e66",
+    "companyId": "7d71841f-4725-416a-b86e-778a6e0c0e66",
     "previewImageUrl": "https://i.imgur.com/oNoFdVa.png",
     "name": "維特健靈 Vita Green",
     "tags": [
@@ -70,6 +11,51 @@
         "address": "大埔工業村大喜街18號",
         "latitude": 22.317118,
         "longitude": 114.265613
+      }
+    ]
+  },
+  {
+    "companyId": "ff57dde6-c791-486a-8e17-8a1fcee9c434",
+    "previewImageUrl": "https://i.imgur.com/0juwxso.jpg",
+    "name": "日牛涮涮鍋專門店",
+    "tags": [
+      "restaurant"
+    ],
+    "addresses": [
+      {
+        "address": "坑口東港城第一層 197A 號舖",
+        "latitude": 22.317118,
+        "longitude": 114.265613
+      },
+      {
+        "address": "旺角朗豪坊 13 樓 6 號舖",
+        "latitude": 22.318074,
+        "longitude": 114.169024
+      },
+      {
+        "address": "新蒲崗 Mikiki 一樓 111 號舖",
+        "latitude": 22.333864,
+        "longitude": 114.196946
+      },
+      {
+        "address": "沙田置富第一城 1 樓 104-105 號舖",
+        "latitude": 22.386587,
+        "longitude": 114.203313
+      },
+      {
+        "address": "寶琳新都城中心 2 期 2 樓",
+        "latitude": 22.323069,
+        "longitude": 114.258455
+      },
+      {
+        "address": "柴灣杏花新城 2 樓 209 號舖",
+        "latitude": 22.276973,
+        "longitude": 114.239957
+      },
+      {
+        "address": "坑口東港城第一層",
+        "latitude": 22.317038,
+        "longitude": 114.266225
       }
     ]
   }
