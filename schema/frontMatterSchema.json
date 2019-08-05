@@ -1,0 +1,51 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "http://noncooperatehk.com/frontmatter.schema.json",
+  "title": "Front Matter",
+  "description": "",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
+    },
+    "previewImageUrl": {
+      "description": "",
+      "type": "string",
+      "format": "uri"
+    },
+    "name": {
+      "description": "",
+      "type": "string"
+    },
+    "tags": {
+      "description": "",
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "restaurant",
+          "medicine"
+        ]
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "addresses": {
+      "description": "",
+      "type": "array",
+      "items": {
+        "$ref": "https://noncooperatehk.com/geographical-location.schema.json"
+      },
+      "minItems": 1,
+      "uniqueItems": true
+    }
+  },
+  "required": [
+    "id",
+    "previewImageUrl",
+    "name",
+    "tags",
+    "addresses"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "$id": "https://noncooperatehk.com/geographical-location.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "geolocation object",
+  "description": "A geographical coordinate on a planet (most commonly Earth) and an address.",
+  "required": [
+    "latitude",
+    "longitude",
+    "address"
+  ],
+  "type": "object",
+  "properties": {
+    "latitude": {
+      "type": "number",
+      "minimum": -90,
+      "maximum": 90
+    },
+    "longitude": {
+      "type": "number",
+      "minimum": -180,
+      "maximum": 180
+    },
+    "address": {
+      "type": "string"
+    }
+  }
+}
