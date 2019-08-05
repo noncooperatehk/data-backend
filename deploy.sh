@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-
+API_DATA_PATH="dist/v1"
 # abort on errors
 set -e
 
@@ -9,9 +9,9 @@ if [ -d "./dist" ]; then
 fi
 
 # build
-mkdir -p dist
-cp *.json dist/
-cp -R company dist/
+mkdir -p $API_DATA_PATH
+cp *.json $API_DATA_PATH
+cp -R company $API_DATA_PATH
 
 # navigate into the build output directory
 cd dist
