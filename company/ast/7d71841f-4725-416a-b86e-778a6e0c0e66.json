@@ -532,7 +532,7 @@
       "children": [
         {
           "type": "text",
-          "value": "地址",
+          "value": "相關文章",
           "position": {
             "start": {
               "line": 19,
@@ -541,8 +541,8 @@
             },
             "end": {
               "line": 19,
-              "column": 8,
-              "offset": 370
+              "column": 10,
+              "offset": 372
             },
             "indent": []
           }
@@ -556,79 +556,8 @@
         },
         "end": {
           "line": 19,
-          "column": 8,
-          "offset": 370
-        },
-        "indent": []
-      }
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "type": "text",
-          "value": "大埔工業村大喜街18號",
-          "position": {
-            "start": {
-              "line": 20,
-              "column": 1,
-              "offset": 371
-            },
-            "end": {
-              "line": 20,
-              "column": 12,
-              "offset": 382
-            },
-            "indent": []
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 20,
-          "column": 1,
-          "offset": 371
-        },
-        "end": {
-          "line": 20,
-          "column": 12,
-          "offset": 382
-        },
-        "indent": []
-      }
-    },
-    {
-      "type": "heading",
-      "depth": 4,
-      "children": [
-        {
-          "type": "text",
-          "value": "相關文章",
-          "position": {
-            "start": {
-              "line": 22,
-              "column": 6,
-              "offset": 389
-            },
-            "end": {
-              "line": 22,
-              "column": 10,
-              "offset": 393
-            },
-            "indent": []
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 22,
-          "column": 1,
-          "offset": 384
-        },
-        "end": {
-          "line": 22,
           "column": 10,
-          "offset": 393
+          "offset": 372
         },
         "indent": []
       }
@@ -658,14 +587,14 @@
                       "value": "連登: 議員: 何君堯 \"維特健靈Doctor's Choice醫之選的受薪顧問\"",
                       "position": {
                         "start": {
-                          "line": 23,
+                          "line": 20,
                           "column": 4,
-                          "offset": 397
+                          "offset": 376
                         },
                         "end": {
-                          "line": 23,
+                          "line": 20,
                           "column": 45,
-                          "offset": 438
+                          "offset": 417
                         },
                         "indent": []
                       }
@@ -673,14 +602,14 @@
                   ],
                   "position": {
                     "start": {
-                      "line": 23,
+                      "line": 20,
                       "column": 3,
-                      "offset": 396
+                      "offset": 375
                     },
                     "end": {
-                      "line": 23,
+                      "line": 20,
                       "column": 58,
-                      "offset": 451
+                      "offset": 430
                     },
                     "indent": []
                   }
@@ -688,14 +617,14 @@
               ],
               "position": {
                 "start": {
-                  "line": 23,
+                  "line": 20,
                   "column": 3,
-                  "offset": 396
+                  "offset": 375
                 },
                 "end": {
-                  "line": 23,
+                  "line": 20,
                   "column": 58,
-                  "offset": 451
+                  "offset": 430
                 },
                 "indent": []
               }
@@ -703,14 +632,14 @@
           ],
           "position": {
             "start": {
-              "line": 23,
+              "line": 20,
               "column": 1,
-              "offset": 394
+              "offset": 373
             },
             "end": {
-              "line": 23,
+              "line": 20,
               "column": 58,
-              "offset": 451
+              "offset": 430
             },
             "indent": []
           }
@@ -734,14 +663,14 @@
                       "value": "立法會何君堯個人利益登記冊受薪工作及職位分頁",
                       "position": {
                         "start": {
-                          "line": 24,
+                          "line": 21,
                           "column": 4,
-                          "offset": 455
+                          "offset": 434
                         },
                         "end": {
-                          "line": 24,
+                          "line": 21,
                           "column": 26,
-                          "offset": 477
+                          "offset": 456
                         },
                         "indent": []
                       }
@@ -749,14 +678,14 @@
                   ],
                   "position": {
                     "start": {
-                      "line": 24,
+                      "line": 21,
                       "column": 3,
-                      "offset": 454
+                      "offset": 433
                     },
                     "end": {
-                      "line": 24,
+                      "line": 21,
                       "column": 38,
-                      "offset": 489
+                      "offset": 468
                     },
                     "indent": []
                   }
@@ -764,14 +693,14 @@
               ],
               "position": {
                 "start": {
-                  "line": 24,
+                  "line": 21,
                   "column": 3,
-                  "offset": 454
+                  "offset": 433
                 },
                 "end": {
-                  "line": 24,
+                  "line": 21,
                   "column": 38,
-                  "offset": 489
+                  "offset": 468
                 },
                 "indent": []
               }
@@ -779,14 +708,14 @@
           ],
           "position": {
             "start": {
-              "line": 24,
+              "line": 21,
               "column": 1,
-              "offset": 452
+              "offset": 431
             },
             "end": {
-              "line": 24,
+              "line": 21,
               "column": 38,
-              "offset": 489
+              "offset": 468
             },
             "indent": []
           }
@@ -810,14 +739,14 @@
                       "value": "維特健靈Facebook專頁",
                       "position": {
                         "start": {
-                          "line": 25,
+                          "line": 22,
                           "column": 4,
-                          "offset": 493
+                          "offset": 472
                         },
                         "end": {
-                          "line": 25,
+                          "line": 22,
                           "column": 18,
-                          "offset": 507
+                          "offset": 486
                         },
                         "indent": []
                       }
@@ -825,14 +754,14 @@
                   ],
                   "position": {
                     "start": {
-                      "line": 25,
+                      "line": 22,
                       "column": 3,
-                      "offset": 492
+                      "offset": 471
                     },
                     "end": {
-                      "line": 25,
+                      "line": 22,
                       "column": 34,
-                      "offset": 523
+                      "offset": 502
                     },
                     "indent": []
                   }
@@ -840,14 +769,14 @@
               ],
               "position": {
                 "start": {
-                  "line": 25,
+                  "line": 22,
                   "column": 3,
-                  "offset": 492
+                  "offset": 471
                 },
                 "end": {
-                  "line": 25,
+                  "line": 22,
                   "column": 34,
-                  "offset": 523
+                  "offset": 502
                 },
                 "indent": []
               }
@@ -855,14 +784,14 @@
           ],
           "position": {
             "start": {
-              "line": 25,
+              "line": 22,
               "column": 1,
-              "offset": 490
+              "offset": 469
             },
             "end": {
-              "line": 25,
+              "line": 22,
               "column": 34,
-              "offset": 523
+              "offset": 502
             },
             "indent": []
           }
@@ -870,14 +799,14 @@
       ],
       "position": {
         "start": {
-          "line": 23,
+          "line": 20,
           "column": 1,
-          "offset": 394
+          "offset": 373
         },
         "end": {
-          "line": 25,
+          "line": 22,
           "column": 34,
-          "offset": 523
+          "offset": 502
         },
         "indent": [
           1,
@@ -894,14 +823,14 @@
           "value": "分店資料",
           "position": {
             "start": {
-              "line": 27,
+              "line": 24,
               "column": 6,
-              "offset": 530
+              "offset": 509
             },
             "end": {
-              "line": 27,
+              "line": 24,
               "column": 10,
-              "offset": 534
+              "offset": 513
             },
             "indent": []
           }
@@ -909,14 +838,14 @@
       ],
       "position": {
         "start": {
-          "line": 27,
+          "line": 24,
           "column": 1,
-          "offset": 525
+          "offset": 504
         },
         "end": {
-          "line": 27,
+          "line": 24,
           "column": 10,
-          "offset": 534
+          "offset": 513
         },
         "indent": []
       }
@@ -929,14 +858,14 @@
           "value": "於屈臣氏及萬寧均有代售",
           "position": {
             "start": {
-              "line": 28,
+              "line": 25,
               "column": 1,
-              "offset": 535
+              "offset": 514
             },
             "end": {
-              "line": 28,
+              "line": 25,
               "column": 12,
-              "offset": 546
+              "offset": 525
             },
             "indent": []
           }
@@ -944,14 +873,14 @@
       ],
       "position": {
         "start": {
-          "line": 28,
+          "line": 25,
           "column": 1,
-          "offset": 535
+          "offset": 514
         },
         "end": {
-          "line": 28,
+          "line": 25,
           "column": 12,
-          "offset": 546
+          "offset": 525
         },
         "indent": []
       }
@@ -964,14 +893,14 @@
       "url": "https://lihkg.com/thread/1301544/page/1",
       "position": {
         "start": {
-          "line": 30,
+          "line": 27,
           "column": 1,
-          "offset": 548
+          "offset": 527
         },
         "end": {
-          "line": 30,
+          "line": 27,
           "column": 54,
-          "offset": 601
+          "offset": 580
         },
         "indent": []
       }
@@ -984,14 +913,14 @@
       "url": "https://www.legco.gov.hk/general/chinese/cmi/yr16-20/hky/hky_2.1_20180209_01_c.pdf",
       "position": {
         "start": {
-          "line": 31,
+          "line": 28,
           "column": 1,
-          "offset": 602
+          "offset": 581
         },
         "end": {
-          "line": 31,
+          "line": 28,
           "column": 96,
-          "offset": 697
+          "offset": 676
         },
         "indent": []
       }
@@ -1004,14 +933,14 @@
       "url": "https://www.facebook.com/vitagreenhk/posts/2616009998433264",
       "position": {
         "start": {
-          "line": 32,
+          "line": 29,
           "column": 1,
-          "offset": 698
+          "offset": 677
         },
         "end": {
-          "line": 32,
+          "line": 29,
           "column": 77,
-          "offset": 774
+          "offset": 753
         },
         "indent": []
       }
@@ -1024,9 +953,9 @@
       "offset": 0
     },
     "end": {
-      "line": 32,
+      "line": 29,
       "column": 77,
-      "offset": 774
+      "offset": 753
     }
   }
 }
