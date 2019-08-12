@@ -25,7 +25,8 @@
         "type": "string",
         "enum": [
           "restaurant",
-          "medicine"
+          "medicine",
+          "drinks"
         ]
       },
       "minItems": 1,

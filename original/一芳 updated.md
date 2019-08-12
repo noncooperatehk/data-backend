@@ -1,39 +1,44 @@
 ---
+name: 一芳台灣水果茶
+
 id: "f8f3cf7b-daa6-442b-9629-e5c7f1b591da"
 
+previewImageUrl: "https://i.imgur.com/oNoFdVa.png"
+
 tags:
-- 飲品
+- drinks
 
 addresses:
-- { address: 荃灣楊屋道1號荃新天地一期UG52A號舖, longitude: 22.369687, latitude: 114.113714}
-- { address: 旺角亞皆老街8號朗豪坊4樓20號舖, longitude: 22.318089, latitude: 114.168659}
-- { address: 尖沙咀彌敦道132號美麗華廣場一期1樓109A號舖, longitude: 22.300982, latitude: 114.172184}
-- { address: 黃大仙龍翔道136號黃大仙中心北館地下G05A及G05B號舖, longitude: 22.341997, latitude: 114.192918}
-- { address: 深水埗欽州街96號地下, longitude: 22.332708, latitude: 114.162115}
-- { address: 觀塘觀塘道418號創紀之城五期apm4樓L4-26號舖, longitude: 22.312719, latitude: 114.225222 }
-- { address: 尖沙咀加連威老道100號港晶中心地下58號鋪, longitude: 22.300968, latitude: 114.178542}
-- { address: 樂富聯合道198號樂富廣場3樓3127號舖, longitude: 22.338598, latitude: 114.186730}
-- { address: 紅磡黃埔天地聚寶坊(第11期)地庫一層11號舖, longitude: 22.306188, latitude: 114.190282}
-- { address: 觀塘偉業街180號Two Habour Square地下3號舖, longitude: 22.309911, latitude: 114.221195}
-- { address: 沙田沙田正街18號新城市廣場1樓158號舖, longitude: 22.382318, latitude: 114.188351}
-- { address: 屯門屯隆街3號屯門市廣場一期3樓3219-3221號舖, longitude: 22.393275, latitude: 113.977876}
-- { address: 上水龍琛路39號上水廣場5樓506號舖, longitude: 22.503320, latitude: 114.127818}
-- { address: 將軍澳重華路8號東港城2樓259C店舖, longitude: 22.316501, latitude: 114.265780}
-- { address: 元朗教育路1號元朗千色匯地下32號舖, longitude: 22.442738, latitude: 114.028439}
-- { address: 大埔安邦路9號大埔超級城B區2樓265號舖, longitude: 22.452674, latitude: 114.168932}
-- { address: 葵芳興芳路223號新都會廣場2樓266號舖, longitude: 22.357464, latitude: 114.127170}
-- { address: 馬鞍山西沙路608號馬鞍山廣場2樓216號舖, longitude: 22.425511, latitude: 114.231333}
-- { address: 青衣青敬路33號青衣城一期1地下G10號舖, longitude:  22.359450, latitude: 114.108227}
-- { address: 葵涌葵昌路72-76號活@KCC 3樓311號舖, longitude: 22.362519, latitude: 114.132453}
-- { address: 深水埗深旺道28號V Walk 2樓L2-108號舖, longitude: 22.327317, latitude: 114.154000}
-- { address: 銅鑼灣記利佐治街11-19號Fashion Walk 1樓17號舖, longitude: 22.280958, latitude: 114.185221}
-- { address: 中環德輔道中173號Nan Fung Place地下G3號舖, longitude: 22.285997, latitude: 114.154342}
-- { address: 鰂魚涌海光街13-15號地下23B號舖, longitude: 22.287799, latitude: 114.211004}
-- { address: 灣仔軒尼詩道292號地舖, longitude: 22.277963, latitude: 114.177357}
-- { address: 上環干諾道中168-200號信德中心2樓202號舖, longitude: 22.287954, latitude: 114.151822}
-- { address: 北角北角邨里1號北角匯地下G22號舖, longitude: 22.292822, latitude: 114.199324}
-- { address: 太古太古城道18號太古城中心2樓202號舖, longitude: 22.286650, latitude: 114.217527}
-- { address: 灣仔港灣道28號Brim 28灣景中心1樓7號舖, longitude: - 22.280172, latitude: 114.176203}
+- { address: 荃灣楊屋道1號荃新天地一期UG52A號舖, latitude: 22.369687, longitude: 114.113714}
+- { address: 旺角亞皆老街8號朗豪坊4樓20號舖, latitude: 22.318089, longitude: 114.168659}
+- { address: 尖沙咀彌敦道132號美麗華廣場一期1樓109A號舖, latitude: 22.300982, longitude: 114.172184}
+- { address: 黃大仙龍翔道136號黃大仙中心北館地下G05A及G05B號舖, latitude: 22.341997, longitude: 114.192918}
+- { address: 深水埗欽州街96號地下, latitude: 22.332708, longitude: 114.162115}
+- { address: 觀塘觀塘道418號創紀之城五期apm4樓L4-26號舖, latitude: 22.312719, longitude: 114.225222 }
+- { address: 尖沙咀加連威老道100號港晶中心地下58號鋪, latitude: 22.300968, longitude: 114.178542}
+- { address: 樂富聯合道198號樂富廣場3樓3127號舖, latitude: 22.338598, longitude: 114.186730}
+- { address: 紅磡黃埔天地聚寶坊(第11期)地庫一層11號舖, latitude: 22.306188, longitude: 114.190282}
+- { address: 觀塘偉業街180號Two Habour Square地下3號舖, latitude: 22.309911, longitude: 114.221195}
+- { address: 沙田沙田正街18號新城市廣場1樓158號舖, latitude: 22.382318, longitude: 114.188351}
+- { address: 屯門屯隆街3號屯門市廣場一期3樓3219-3221號舖, latitude: 22.393275, longitude: 113.977876}
+- { address: 上水龍琛路39號上水廣場5樓506號舖, latitude: 22.503320, longitude: 114.127818}
+- { address: 將軍澳重華路8號東港城2樓259C店舖, latitude: 22.316501, longitude: 114.265780}
+- { address: 元朗教育路1號元朗千色匯地下32號舖, latitude: 22.442738, longitude: 114.028439}
+- { address: 大埔安邦路9號大埔超級城B區2樓265號舖, latitude: 22.452674, longitude: 114.168932}
+- { address: 葵芳興芳路223號新都會廣場2樓266號舖, latitude: 22.357464, longitude: 114.127170}
+- { address: 馬鞍山西沙路608號馬鞍山廣場2樓216號舖, latitude: 22.425511, longitude: 114.231333}
+- { address: 青衣青敬路33號青衣城一期1地下G10號舖, latitude:  22.359450, longitude: 114.108227}
+- { address: 葵涌葵昌路72-76號活@KCC 3樓311號舖, latitude: 22.362519, longitude: 114.132453}
+- { address: 深水埗深旺道28號V Walk 2樓L2-108號舖, latitude: 22.327317, longitude: 114.154000}
+- { address: 銅鑼灣記利佐治街11-19號Fashion Walk 1樓17號舖, latitude: 22.280958, longitude: 114.185221}
+- { address: 中環德輔道中173號Nan Fung Place地下G3號舖, latitude: 22.285997, longitude: 114.154342}
+- { address: 鰂魚涌海光街13-15號地下23B號舖, latitude: 22.287799, longitude: 114.211004}
+- { address: 灣仔軒尼詩道292號地舖, latitude: 22.277963, longitude: 114.177357}
+- { address: 上環干諾道中168-200號信德中心2樓202號舖, latitude: 22.287954, longitude: 114.151822}
+- { address: 北角北角邨里1號北角匯地下G22號舖, latitude: 22.292822, longitude: 114.199324}
+- { address: 太古太古城道18號太古城中心2樓202號舖, latitude: 22.286650, longitude: 114.217527}
+- { address: 灣仔港灣道28號Brim 28灣景中心1樓7號舖, latitude: 22.280172, longitude: 114.176203}
+---
 
 #### 食店資料
 
