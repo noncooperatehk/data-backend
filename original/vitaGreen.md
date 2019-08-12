@@ -1,9 +1,9 @@
 ---
-id: "7d71841f-4725-416a-b86e-778a6e0c0e66"
-
-previewImageUrl: https://i.imgur.com/oNoFdVa.png
-
 name: "維特健靈 Vita Green"
+referenceId: "7d71841f-4725-416a-b86e-778a6e0c0e66"
+referenceInformation: NULL
+previewImageUrl: ""
+status: "已查證"
 
 tags:
 - 商品
