@@ -4,7 +4,7 @@ import _ from 'lodash';
 import Ajv from "ajv";
 import frontMatterSchema from './schema/frontMatterSchema.json'
 import geolocationSchema from './schema/geolocationSchema.json'
-import indexJson from './location/index.json'
+import indexJson from './location/locations.json'
 
 
 const fsPromises = fs.promises;
@@ -24,7 +24,7 @@ async function main(fileName) {
   await validateFrontMatter(frontMatterJson);
 
   await updateIndexJson(frontMatterJson);
-  console.log('index.json updated')
+  console.log('locations.json updated')
 
   let isDirectReference = frontMatterJson.referenceInformation === null
   if (isDirectReference) {
@@ -96,7 +96,7 @@ async function updateIndexJson(frontMatterJson) {
     return _.assign({...component}, address, {tags});
   })
 
-  let filePath = `${__dirname}/location/index.json`;
+  let filePath = `${__dirname}/location/locations.json`;
   let updated = _.chain(indexJson)
     .filter(x => x.companyId !== frontMatterJson.companyId)
     .concat(locations)

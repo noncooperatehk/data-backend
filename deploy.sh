@@ -1,5 +1,5 @@
 #!/usr/bin/env sh
-API_DATA_PATH="dist/v1"
+API_DATA_PATH="dist/v2"
 # abort on errors
 set -e
 
@@ -10,8 +10,9 @@ fi
 
 # build
 mkdir -p $API_DATA_PATH
-cp *.json $API_DATA_PATH
-cp -R company $API_DATA_PATH
+cp -R location $API_DATA_PATH
+cp -R article $API_DATA_PATH
+cp -R tag $API_DATA_PATH
 
 # navigate into the build output directory
 cd dist
