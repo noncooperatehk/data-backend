@@ -6,10 +6,10 @@ previewImageUrl: https://i.imgur.com/oNoFdVa.png
 name: "維特健靈 Vita Green"
 
 tags:
-- medicine
+- 商品
 
 addresses:
-- { address: "大埔工業村大喜街18號", latitude: 22.317118, longitude: 114.265613 }
+- { address: "大埔工業村大喜街18號", latitude: 22.317118, longitude: 114.265613, tags: [大埔, 全新界] }
 
 ---
 
@@ -30,9 +30,6 @@ Fact Checked
 [維特健靈於24/7/2019在Facebook專頁][vita-green-fb]聲稱「本集團及其下品牌與何君堯律師之顧問服務於2018年中前已經結束。」 
 
 ![Imgur](https://i.imgur.com/O1D2Fq5.png)
-
-#### 地址
-大埔工業村大喜街18號
 
 #### 相關文章
 * [連登: 議員: 何君堯 "維特健靈Doctor's Choice醫之選的受薪顧問"][lihkg-link]
