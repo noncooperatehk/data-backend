@@ -1,16 +1,17 @@
 ---
 name: "維特健靈 Vita Green"
-referenceId: "7d71841f-4725-416a-b86e-778a6e0c0e66"
+companyId: "9c2fbe91-bf5f-470c-bc93-f045db60291b"
+previewImageUrl: NULL
+referenceArticleId: "7d71841f-4725-416a-b86e-778a6e0c0e66"
 referenceInformation: NULL
-previewImageUrl: ""
 status: "已查證"
+
 
 tags:
 - 商品
 
 addresses:
 - { address: "大埔工業村大喜街18號", latitude: 22.317118, longitude: 114.265613, tags: [大埔, 全新界] }
-
 ---
 
 #### 食店資料
