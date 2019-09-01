@@ -13,6 +13,7 @@ mkdir -p $API_DATA_PATH
 cp -R location $API_DATA_PATH
 cp -R article $API_DATA_PATH
 cp -R tag $API_DATA_PATH
+cp -R inputFile $API_DATA_PATH
 
 # navigate into the build output directory
 cd dist

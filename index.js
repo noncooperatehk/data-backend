@@ -21,7 +21,7 @@ async function main(fileName) {
   let [frontMatterJson, ast, mdStr] = await highLevelParser.parseFile(fullPath);
   if (!_.get(frontMatterJson, 'referenceArticleId')) throw new FormatException(`missing referenceArticleId in frontMatter. received: ${JSON.stringify(frontMatterJson)}`);
 
-  await updateInputFileJson(fullPath, frontMatterJson);
+  await updateInputFileJson(fullPath, mdStr, frontMatterJson);
   console.log('inputFile json updated');
 
   await validateFrontMatter(frontMatterJson);
@@ -42,10 +42,9 @@ async function main(fileName) {
   }
 }
 
-async function updateInputFileJson(filePath, frontMatter) {
+async function updateInputFileJson(filePath, mdStr, frontMatter) {
   let outputFilePath = `${__dirname}/inputFile/${frontMatter.inputId}.json`;
-  const content = await fsPromises.readFile(filePath, 'utf8');
-  return fsPromises.writeFile(outputFilePath, JSON.stringify({content}, null, '  '));
+  return fsPromises.writeFile(outputFilePath, JSON.stringify({md: mdStr, frontMatter}, null, '  '));
 }
 
 async function validateFrontMatter(frontMatterJson) {
