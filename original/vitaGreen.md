@@ -1,6 +1,6 @@
 ---
 name: "維特健靈 Vita Green"
-companyId: "9c2fbe91-bf5f-470c-bc93-f045db60291b"
+inputId: "9c2fbe91-bf5f-470c-bc93-f045db60291b"
 previewImageUrl: NULL
 referenceArticleId: "7d71841f-4725-416a-b86e-778a6e0c0e66"
 referenceInformation: NULL

@@ -21,6 +21,9 @@ async function main(fileName) {
   let [frontMatterJson, ast, mdStr] = await highLevelParser.parseFile(fullPath);
   if (!_.get(frontMatterJson, 'referenceArticleId')) throw new FormatException(`missing referenceArticleId in frontMatter. received: ${JSON.stringify(frontMatterJson)}`);
 
+  await updateInputFileJson(fullPath, frontMatterJson);
+  console.log('inputFile json updated');
+
   await validateFrontMatter(frontMatterJson);
 
   await updateIndexJson(frontMatterJson);
@@ -39,6 +42,12 @@ async function main(fileName) {
   }
 }
 
+async function updateInputFileJson(filePath, frontMatter) {
+  let outputFilePath = `${__dirname}/inputFile/${frontMatter.inputId}.json`;
+  const content = await fsPromises.readFile(filePath, 'utf8');
+  return fsPromises.writeFile(outputFilePath, JSON.stringify({content}, null, '  '));
+}
+
 async function validateFrontMatter(frontMatterJson) {
   const ajv = new Ajv({schemas: [frontMatterSchema, geolocationSchema]}); // options can be passed, e.g. {allErrors: true}
   const validate = ajv.getSchema('http://noncooperatehk.com/frontmatter.schema.json');
@@ -48,13 +57,13 @@ async function validateFrontMatter(frontMatterJson) {
   }
 }
 
-async function updateAstJson(companyId, markdownAST) {
-  let filePath = `${__dirname}/article/ast/${companyId}.json`;
+async function updateAstJson(referenceArticleId, markdownAST) {
+  let filePath = `${__dirname}/article/ast/${referenceArticleId}.json`;
   return fsPromises.writeFile(filePath, JSON.stringify(markdownAST, null, '  '));
 }
 
-async function updateMarkDownJson(companyId, markDownStr) {
-  let filePath = `${__dirname}/article/md/${companyId}.json`;
+async function updateMarkDownJson(referenceArticleId, markDownStr) {
+  let filePath = `${__dirname}/article/md/${referenceArticleId}.json`;
   let jsonContent = {
     md: markDownStr
   };
@@ -67,7 +76,7 @@ async function updateIndexJson(frontMatterJson) {
     * location
     * {
     *   name: String,
-    *   companyId: UUID, //for updating data
+    *   inputId: UUID, //for updating data
     *   referenceArticleId: UUID, //to relate an article
     *   referenceInformation: String, //for indirect reference, e.g. sub-companies
     *   previewImageUrl: String,
@@ -98,9 +107,9 @@ async function updateIndexJson(frontMatterJson) {
 
   let filePath = `${__dirname}/location/locations.json`;
   let updated = _.chain(indexJson)
-    .filter(x => x.companyId !== frontMatterJson.companyId)
+    .filter(x => x.inputId !== frontMatterJson.inputId)
     .concat(locations)
-    .sortBy(['companyId', 'address'])
+    .sortBy(['inputId', 'address'])
     .value();
   return fsPromises.writeFile(filePath, JSON.stringify(updated, null, '  '));
 }
