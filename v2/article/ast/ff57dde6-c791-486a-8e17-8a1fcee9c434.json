@@ -1,0 +1,2196 @@
+{
+  "type": "root",
+  "children": [
+    {
+      "type": "heading",
+      "depth": 4,
+      "children": [
+        {
+          "type": "text",
+          "value": "食店資料",
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 6,
+              "offset": 5
+            },
+            "end": {
+              "line": 1,
+              "column": 10,
+              "offset": 9
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 10,
+          "offset": 9
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "日牛涮涮鍋專門店",
+          "position": {
+            "start": {
+              "line": 2,
+              "column": 1,
+              "offset": 10
+            },
+            "end": {
+              "line": 2,
+              "column": 9,
+              "offset": 18
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 2,
+          "column": 1,
+          "offset": 10
+        },
+        "end": {
+          "line": 2,
+          "column": 9,
+          "offset": 18
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 4,
+      "children": [
+        {
+          "type": "text",
+          "value": "狀態",
+          "position": {
+            "start": {
+              "line": 4,
+              "column": 6,
+              "offset": 25
+            },
+            "end": {
+              "line": 4,
+              "column": 8,
+              "offset": 27
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 4,
+          "column": 1,
+          "offset": 20
+        },
+        "end": {
+          "line": 4,
+          "column": 8,
+          "offset": 27
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "Fact Checked",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 1,
+              "offset": 28
+            },
+            "end": {
+              "line": 5,
+              "column": 13,
+              "offset": 40
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 5,
+          "column": 1,
+          "offset": 28
+        },
+        "end": {
+          "line": 5,
+          "column": 13,
+          "offset": 40
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 2,
+      "children": [
+        {
+          "type": "text",
+          "value": "詳情",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 4,
+              "offset": 45
+            },
+            "end": {
+              "line": 7,
+              "column": 6,
+              "offset": 47
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 7,
+          "column": 1,
+          "offset": 42
+        },
+        "end": {
+          "line": 7,
+          "column": 6,
+          "offset": 47
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 5,
+      "children": [
+        {
+          "type": "text",
+          "value": "21/7/2019",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 7,
+              "offset": 55
+            },
+            "end": {
+              "line": 9,
+              "column": 16,
+              "offset": 64
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 9,
+          "column": 1,
+          "offset": 49
+        },
+        "end": {
+          "line": 9,
+          "column": 16,
+          "offset": 64
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "linkReference",
+          "identifier": "lihkg-link",
+          "label": "lihkg-link",
+          "referenceType": "full",
+          "children": [
+            {
+              "type": "text",
+              "value": "有網友在連登開Post",
+              "position": {
+                "start": {
+                  "line": 10,
+                  "column": 2,
+                  "offset": 66
+                },
+                "end": {
+                  "line": 10,
+                  "column": 13,
+                  "offset": 77
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 1,
+              "offset": 65
+            },
+            "end": {
+              "line": 10,
+              "column": 26,
+              "offset": 90
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "text",
+          "value": "，聲稱發夢後準備於該店用膳，惟被店員刁難不安排進場，並指「冇，你可以食其他餐廳架，咁得閒周圍遊行。」\n及後",
+          "position": {
+            "start": {
+              "line": 10,
+              "column": 26,
+              "offset": 90
+            },
+            "end": {
+              "line": 11,
+              "column": 3,
+              "offset": 143
+            },
+            "indent": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "linkReference",
+          "identifier": "japcowfb",
+          "label": "japcowfb",
+          "referenceType": "full",
+          "children": [
+            {
+              "type": "text",
+              "value": "「日牛」在Facebook專頁",
+              "position": {
+                "start": {
+                  "line": 11,
+                  "column": 4,
+                  "offset": 144
+                },
+                "end": {
+                  "line": 11,
+                  "column": 19,
+                  "offset": 159
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 3,
+              "offset": 143
+            },
+            "end": {
+              "line": 11,
+              "column": 30,
+              "offset": 170
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "text",
+          "value": "指，「經翻查昨晚店舖的營運記錄及閉路電視顯示入座順序均以客人到訪先後時間作安排。其時店舖的輪候系統出現故障，以人手派發籌號以致照顧不周的情況。」並致歉。",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 30,
+              "offset": 170
+            },
+            "end": {
+              "line": 11,
+              "column": 106,
+              "offset": 246
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 10,
+          "column": 1,
+          "offset": 65
+        },
+        "end": {
+          "line": 11,
+          "column": 106,
+          "offset": 246
+        },
+        "indent": [
+          1
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 5,
+      "children": [
+        {
+          "type": "text",
+          "value": "22/7/2019",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 7,
+              "offset": 254
+            },
+            "end": {
+              "line": 13,
+              "column": 16,
+              "offset": 263
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 13,
+          "column": 1,
+          "offset": 248
+        },
+        "end": {
+          "line": 13,
+          "column": 16,
+          "offset": 263
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "晚上，有市民自發到場，在店外自製連儂牆，之後有人報警，",
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 1,
+              "offset": 264
+            },
+            "end": {
+              "line": 14,
+              "column": 28,
+              "offset": 291
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "linkReference",
+          "identifier": "kengopage",
+          "label": "kengopage",
+          "referenceType": "full",
+          "children": [
+            {
+              "type": "text",
+              "value": "一批持盾警員到場守門保護。",
+              "position": {
+                "start": {
+                  "line": 14,
+                  "column": 29,
+                  "offset": 292
+                },
+                "end": {
+                  "line": 14,
+                  "column": 42,
+                  "offset": 305
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 14,
+              "column": 28,
+              "offset": 291
+            },
+            "end": {
+              "line": 14,
+              "column": 54,
+              "offset": 317
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 14,
+          "column": 1,
+          "offset": 264
+        },
+        "end": {
+          "line": 14,
+          "column": 54,
+          "offset": 317
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 5,
+      "children": [
+        {
+          "type": "text",
+          "value": "23/7/2019",
+          "position": {
+            "start": {
+              "line": 16,
+              "column": 7,
+              "offset": 325
+            },
+            "end": {
+              "line": 16,
+              "column": 16,
+              "offset": 334
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 16,
+          "column": 1,
+          "offset": 319
+        },
+        "end": {
+          "line": 16,
+          "column": 16,
+          "offset": 334
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "linkReference",
+          "identifier": "japcowfb2",
+          "label": "japcowfb2",
+          "referenceType": "full",
+          "children": [
+            {
+              "type": "text",
+              "value": "「日牛」下午3時在facebook專頁宣佈因內部員工培訓暫停營業",
+              "position": {
+                "start": {
+                  "line": 17,
+                  "column": 2,
+                  "offset": 336
+                },
+                "end": {
+                  "line": 17,
+                  "column": 34,
+                  "offset": 368
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 1,
+              "offset": 335
+            },
+            "end": {
+              "line": 17,
+              "column": 46,
+              "offset": 380
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "text",
+          "value": "，半小時後再發出道歉聲明，稱為表歉意將由即日起停止營業，進行內部整頓至另行通知 。",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 46,
+              "offset": 380
+            },
+            "end": {
+              "line": 17,
+              "column": 87,
+              "offset": 421
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 17,
+          "column": 1,
+          "offset": 335
+        },
+        "end": {
+          "line": 17,
+          "column": 87,
+          "offset": 421
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 4,
+      "children": [
+        {
+          "type": "text",
+          "value": "地址",
+          "position": {
+            "start": {
+              "line": 20,
+              "column": 6,
+              "offset": 429
+            },
+            "end": {
+              "line": 20,
+              "column": 8,
+              "offset": 431
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 20,
+          "column": 1,
+          "offset": 424
+        },
+        "end": {
+          "line": 20,
+          "column": 8,
+          "offset": 431
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "start": null,
+      "spread": true,
+      "children": [
+        {
+          "type": "listItem",
+          "spread": true,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "九龍",
+                  "position": {
+                    "start": {
+                      "line": 21,
+                      "column": 3,
+                      "offset": 434
+                    },
+                    "end": {
+                      "line": 21,
+                      "column": 5,
+                      "offset": 436
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 21,
+                  "column": 3,
+                  "offset": 434
+                },
+                "end": {
+                  "line": 21,
+                  "column": 5,
+                  "offset": 436
+                },
+                "indent": []
+              }
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "start": null,
+              "spread": true,
+              "children": [
+                {
+                  "type": "listItem",
+                  "spread": false,
+                  "checked": null,
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "鑽石山荷里活廣場第 3 層 311A 號舖\t3102 0122",
+                          "position": {
+                            "start": {
+                              "line": 23,
+                              "column": 5,
+                              "offset": 442
+                            },
+                            "end": {
+                              "line": 23,
+                              "column": 36,
+                              "offset": 473
+                            },
+                            "indent": []
+                          }
+                        }
+                      ],
+                      "position": {
+                        "start": {
+                          "line": 23,
+                          "column": 5,
+                          "offset": 442
+                        },
+                        "end": {
+                          "line": 23,
+                          "column": 36,
+                          "offset": 473
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 23,
+                      "column": 3,
+                      "offset": 440
+                    },
+                    "end": {
+                      "line": 24,
+                      "column": 1,
+                      "offset": 474
+                    },
+                    "indent": [
+                      1
+                    ]
+                  }
+                },
+                {
+                  "type": "listItem",
+                  "spread": false,
+                  "checked": null,
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "旺角朗豪坊 13 樓 6 號舖\t3583 4711",
+                          "position": {
+                            "start": {
+                              "line": 25,
+                              "column": 5,
+                              "offset": 479
+                            },
+                            "end": {
+                              "line": 25,
+                              "column": 30,
+                              "offset": 504
+                            },
+                            "indent": []
+                          }
+                        }
+                      ],
+                      "position": {
+                        "start": {
+                          "line": 25,
+                          "column": 5,
+                          "offset": 479
+                        },
+                        "end": {
+                          "line": 25,
+                          "column": 30,
+                          "offset": 504
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 25,
+                      "column": 3,
+                      "offset": 477
+                    },
+                    "end": {
+                      "line": 26,
+                      "column": 1,
+                      "offset": 505
+                    },
+                    "indent": [
+                      1
+                    ]
+                  }
+                },
+                {
+                  "type": "listItem",
+                  "spread": false,
+                  "checked": null,
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "新蒲崗 Mikiki 一樓 111 號舖\t3579 4770",
+                          "position": {
+                            "start": {
+                              "line": 27,
+                              "column": 5,
+                              "offset": 510
+                            },
+                            "end": {
+                              "line": 27,
+                              "column": 35,
+                              "offset": 540
+                            },
+                            "indent": []
+                          }
+                        }
+                      ],
+                      "position": {
+                        "start": {
+                          "line": 27,
+                          "column": 5,
+                          "offset": 510
+                        },
+                        "end": {
+                          "line": 27,
+                          "column": 35,
+                          "offset": 540
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 27,
+                      "column": 3,
+                      "offset": 508
+                    },
+                    "end": {
+                      "line": 27,
+                      "column": 35,
+                      "offset": 540
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 23,
+                  "column": 3,
+                  "offset": 440
+                },
+                "end": {
+                  "line": 27,
+                  "column": 35,
+                  "offset": 540
+                },
+                "indent": [
+                  1,
+                  3,
+                  1,
+                  3
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 1,
+              "offset": 432
+            },
+            "end": {
+              "line": 28,
+              "column": 1,
+              "offset": 541
+            },
+            "indent": [
+              1,
+              1,
+              1,
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": true,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "新界",
+                  "position": {
+                    "start": {
+                      "line": 29,
+                      "column": 3,
+                      "offset": 544
+                    },
+                    "end": {
+                      "line": 29,
+                      "column": 5,
+                      "offset": 546
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 29,
+                  "column": 3,
+                  "offset": 544
+                },
+                "end": {
+                  "line": 29,
+                  "column": 5,
+                  "offset": 546
+                },
+                "indent": []
+              }
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "start": null,
+              "spread": true,
+              "children": [
+                {
+                  "type": "listItem",
+                  "spread": false,
+                  "checked": null,
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "沙田置富第一城 1 樓 104-105 號舖\t2686 1810",
+                          "position": {
+                            "start": {
+                              "line": 31,
+                              "column": 5,
+                              "offset": 552
+                            },
+                            "end": {
+                              "line": 31,
+                              "column": 37,
+                              "offset": 584
+                            },
+                            "indent": []
+                          }
+                        }
+                      ],
+                      "position": {
+                        "start": {
+                          "line": 31,
+                          "column": 5,
+                          "offset": 552
+                        },
+                        "end": {
+                          "line": 31,
+                          "column": 37,
+                          "offset": 584
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 31,
+                      "column": 3,
+                      "offset": 550
+                    },
+                    "end": {
+                      "line": 32,
+                      "column": 1,
+                      "offset": 585
+                    },
+                    "indent": [
+                      1
+                    ]
+                  }
+                },
+                {
+                  "type": "listItem",
+                  "spread": false,
+                  "checked": null,
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "寶琳新都城中心 2 期 2 樓 2024-2027 號舖\t3585 8481",
+                          "position": {
+                            "start": {
+                              "line": 33,
+                              "column": 5,
+                              "offset": 590
+                            },
+                            "end": {
+                              "line": 33,
+                              "column": 43,
+                              "offset": 628
+                            },
+                            "indent": []
+                          }
+                        }
+                      ],
+                      "position": {
+                        "start": {
+                          "line": 33,
+                          "column": 5,
+                          "offset": 590
+                        },
+                        "end": {
+                          "line": 33,
+                          "column": 43,
+                          "offset": 628
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 33,
+                      "column": 3,
+                      "offset": 588
+                    },
+                    "end": {
+                      "line": 33,
+                      "column": 43,
+                      "offset": 628
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 31,
+                  "column": 3,
+                  "offset": 550
+                },
+                "end": {
+                  "line": 33,
+                  "column": 43,
+                  "offset": 628
+                },
+                "indent": [
+                  1,
+                  3
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 29,
+              "column": 1,
+              "offset": 542
+            },
+            "end": {
+              "line": 34,
+              "column": 1,
+              "offset": 629
+            },
+            "indent": [
+              1,
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": true,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "香港",
+                  "position": {
+                    "start": {
+                      "line": 35,
+                      "column": 3,
+                      "offset": 632
+                    },
+                    "end": {
+                      "line": 35,
+                      "column": 5,
+                      "offset": 634
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 35,
+                  "column": 3,
+                  "offset": 632
+                },
+                "end": {
+                  "line": 35,
+                  "column": 5,
+                  "offset": 634
+                },
+                "indent": []
+              }
+            },
+            {
+              "type": "list",
+              "ordered": false,
+              "start": null,
+              "spread": true,
+              "children": [
+                {
+                  "type": "listItem",
+                  "spread": false,
+                  "checked": null,
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "柴灣杏花新城 2 樓 209 號舖\t3586 1964",
+                          "position": {
+                            "start": {
+                              "line": 37,
+                              "column": 5,
+                              "offset": 640
+                            },
+                            "end": {
+                              "line": 37,
+                              "column": 32,
+                              "offset": 667
+                            },
+                            "indent": []
+                          }
+                        }
+                      ],
+                      "position": {
+                        "start": {
+                          "line": 37,
+                          "column": 5,
+                          "offset": 640
+                        },
+                        "end": {
+                          "line": 37,
+                          "column": 32,
+                          "offset": 667
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 37,
+                      "column": 3,
+                      "offset": 638
+                    },
+                    "end": {
+                      "line": 38,
+                      "column": 1,
+                      "offset": 668
+                    },
+                    "indent": [
+                      1
+                    ]
+                  }
+                },
+                {
+                  "type": "listItem",
+                  "spread": false,
+                  "checked": null,
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "children": [
+                        {
+                          "type": "text",
+                          "value": "坑口東港城第一層 197A 號舖",
+                          "position": {
+                            "start": {
+                              "line": 39,
+                              "column": 5,
+                              "offset": 673
+                            },
+                            "end": {
+                              "line": 39,
+                              "column": 21,
+                              "offset": 689
+                            },
+                            "indent": []
+                          }
+                        }
+                      ],
+                      "position": {
+                        "start": {
+                          "line": 39,
+                          "column": 5,
+                          "offset": 673
+                        },
+                        "end": {
+                          "line": 39,
+                          "column": 21,
+                          "offset": 689
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 39,
+                      "column": 3,
+                      "offset": 671
+                    },
+                    "end": {
+                      "line": 39,
+                      "column": 21,
+                      "offset": 689
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 37,
+                  "column": 3,
+                  "offset": 638
+                },
+                "end": {
+                  "line": 39,
+                  "column": 21,
+                  "offset": 689
+                },
+                "indent": [
+                  1,
+                  3
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 1,
+              "offset": 630
+            },
+            "end": {
+              "line": 39,
+              "column": 21,
+              "offset": 689
+            },
+            "indent": [
+              1,
+              1,
+              1,
+              1
+            ]
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 21,
+          "column": 1,
+          "offset": 432
+        },
+        "end": {
+          "line": 39,
+          "column": 21,
+          "offset": 689
+        },
+        "indent": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 4,
+      "children": [
+        {
+          "type": "text",
+          "value": "相關文章",
+          "position": {
+            "start": {
+              "line": 42,
+              "column": 6,
+              "offset": 697
+            },
+            "end": {
+              "line": 42,
+              "column": 10,
+              "offset": 701
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 42,
+          "column": 1,
+          "offset": 692
+        },
+        "end": {
+          "line": 42,
+          "column": 10,
+          "offset": 701
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "start": null,
+      "spread": false,
+      "children": [
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "linkReference",
+                  "identifier": "lihkg-link",
+                  "label": "lihkg-link",
+                  "referenceType": "full",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "連登: 有餐廳拒絕遊行人士入內進餐！！！",
+                      "position": {
+                        "start": {
+                          "line": 44,
+                          "column": 4,
+                          "offset": 706
+                        },
+                        "end": {
+                          "line": 44,
+                          "column": 24,
+                          "offset": 726
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 44,
+                      "column": 3,
+                      "offset": 705
+                    },
+                    "end": {
+                      "line": 44,
+                      "column": 37,
+                      "offset": 739
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 44,
+                  "column": 3,
+                  "offset": 705
+                },
+                "end": {
+                  "line": 44,
+                  "column": 37,
+                  "offset": 739
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 44,
+              "column": 1,
+              "offset": 703
+            },
+            "end": {
+              "line": 44,
+              "column": 37,
+              "offset": 739
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "linkReference",
+                  "identifier": "japcowfb",
+                  "label": "japcowfb",
+                  "referenceType": "full",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "日牛涮涮鍋專門店就21/7事件道歉聲明",
+                      "position": {
+                        "start": {
+                          "line": 45,
+                          "column": 4,
+                          "offset": 743
+                        },
+                        "end": {
+                          "line": 45,
+                          "column": 23,
+                          "offset": 762
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 45,
+                      "column": 3,
+                      "offset": 742
+                    },
+                    "end": {
+                      "line": 45,
+                      "column": 34,
+                      "offset": 773
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 45,
+                  "column": 3,
+                  "offset": 742
+                },
+                "end": {
+                  "line": 45,
+                  "column": 34,
+                  "offset": 773
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 45,
+              "column": 1,
+              "offset": 740
+            },
+            "end": {
+              "line": 45,
+              "column": 34,
+              "offset": 773
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "linkReference",
+                  "identifier": "kengopage",
+                  "label": "kengopage",
+                  "referenceType": "full",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "建吾FB描述關於坑口日牛於22/7情況",
+                      "position": {
+                        "start": {
+                          "line": 46,
+                          "column": 4,
+                          "offset": 777
+                        },
+                        "end": {
+                          "line": 46,
+                          "column": 23,
+                          "offset": 796
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 46,
+                      "column": 3,
+                      "offset": 776
+                    },
+                    "end": {
+                      "line": 46,
+                      "column": 35,
+                      "offset": 808
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 46,
+                  "column": 3,
+                  "offset": 776
+                },
+                "end": {
+                  "line": 46,
+                  "column": 35,
+                  "offset": 808
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 46,
+              "column": 1,
+              "offset": 774
+            },
+            "end": {
+              "line": 46,
+              "column": 35,
+              "offset": 808
+            },
+            "indent": []
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "linkReference",
+                  "identifier": "japcowfb2",
+                  "label": "japcowfb2",
+                  "referenceType": "full",
+                  "children": [
+                    {
+                      "type": "text",
+                      "value": "日牛涮涮鍋專門店就道歉聲明作補充，並表示停止營業",
+                      "position": {
+                        "start": {
+                          "line": 47,
+                          "column": 4,
+                          "offset": 812
+                        },
+                        "end": {
+                          "line": 47,
+                          "column": 28,
+                          "offset": 836
+                        },
+                        "indent": []
+                      }
+                    }
+                  ],
+                  "position": {
+                    "start": {
+                      "line": 47,
+                      "column": 3,
+                      "offset": 811
+                    },
+                    "end": {
+                      "line": 47,
+                      "column": 40,
+                      "offset": 848
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 47,
+                  "column": 3,
+                  "offset": 811
+                },
+                "end": {
+                  "line": 47,
+                  "column": 40,
+                  "offset": 848
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 47,
+              "column": 1,
+              "offset": 809
+            },
+            "end": {
+              "line": 47,
+              "column": 40,
+              "offset": 848
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 44,
+          "column": 1,
+          "offset": 703
+        },
+        "end": {
+          "line": 47,
+          "column": 40,
+          "offset": 848
+        },
+        "indent": [
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "type": "heading",
+      "depth": 4,
+      "children": [
+        {
+          "type": "text",
+          "value": "集團資料",
+          "position": {
+            "start": {
+              "line": 50,
+              "column": 6,
+              "offset": 856
+            },
+            "end": {
+              "line": 50,
+              "column": 10,
+              "offset": 860
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 50,
+          "column": 1,
+          "offset": 851
+        },
+        "end": {
+          "line": 50,
+          "column": 10,
+          "offset": 860
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "type": "text",
+          "value": "日牛涮涮鍋專門店為和心集團所經營，旗下另外有以下分店",
+          "position": {
+            "start": {
+              "line": 52,
+              "column": 1,
+              "offset": 862
+            },
+            "end": {
+              "line": 52,
+              "column": 27,
+              "offset": 888
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 52,
+          "column": 1,
+          "offset": 862
+        },
+        "end": {
+          "line": 52,
+          "column": 27,
+          "offset": 888
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "start": null,
+      "spread": true,
+      "children": [
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "道頓堀御好燒專門店",
+                  "position": {
+                    "start": {
+                      "line": 54,
+                      "column": 3,
+                      "offset": 892
+                    },
+                    "end": {
+                      "line": 54,
+                      "column": 12,
+                      "offset": 901
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 54,
+                  "column": 3,
+                  "offset": 892
+                },
+                "end": {
+                  "line": 54,
+                  "column": 12,
+                  "offset": 901
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 54,
+              "column": 1,
+              "offset": 890
+            },
+            "end": {
+              "line": 55,
+              "column": 1,
+              "offset": 902
+            },
+            "indent": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "西佑定食屋",
+                  "position": {
+                    "start": {
+                      "line": 56,
+                      "column": 3,
+                      "offset": 905
+                    },
+                    "end": {
+                      "line": 56,
+                      "column": 8,
+                      "offset": 910
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 56,
+                  "column": 3,
+                  "offset": 905
+                },
+                "end": {
+                  "line": 56,
+                  "column": 8,
+                  "offset": 910
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 56,
+              "column": 1,
+              "offset": 903
+            },
+            "end": {
+              "line": 57,
+              "column": 1,
+              "offset": 911
+            },
+            "indent": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "牛八和牛燒肉屋",
+                  "position": {
+                    "start": {
+                      "line": 58,
+                      "column": 3,
+                      "offset": 914
+                    },
+                    "end": {
+                      "line": 58,
+                      "column": 10,
+                      "offset": 921
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 58,
+                  "column": 3,
+                  "offset": 914
+                },
+                "end": {
+                  "line": 58,
+                  "column": 10,
+                  "offset": 921
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 58,
+              "column": 1,
+              "offset": 912
+            },
+            "end": {
+              "line": 59,
+              "column": 1,
+              "offset": 922
+            },
+            "indent": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "牛八涮涮鍋專門店",
+                  "position": {
+                    "start": {
+                      "line": 60,
+                      "column": 3,
+                      "offset": 925
+                    },
+                    "end": {
+                      "line": 60,
+                      "column": 11,
+                      "offset": 933
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 60,
+                  "column": 3,
+                  "offset": 925
+                },
+                "end": {
+                  "line": 60,
+                  "column": 11,
+                  "offset": 933
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 60,
+              "column": 1,
+              "offset": 923
+            },
+            "end": {
+              "line": 61,
+              "column": 1,
+              "offset": 934
+            },
+            "indent": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "京都抹茶庵",
+                  "position": {
+                    "start": {
+                      "line": 62,
+                      "column": 3,
+                      "offset": 937
+                    },
+                    "end": {
+                      "line": 62,
+                      "column": 8,
+                      "offset": 942
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 62,
+                  "column": 3,
+                  "offset": 937
+                },
+                "end": {
+                  "line": 62,
+                  "column": 8,
+                  "offset": 942
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 62,
+              "column": 1,
+              "offset": 935
+            },
+            "end": {
+              "line": 63,
+              "column": 1,
+              "offset": 943
+            },
+            "indent": [
+              1
+            ]
+          }
+        },
+        {
+          "type": "listItem",
+          "spread": false,
+          "checked": null,
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "梅丘壽司美登利總本店",
+                  "position": {
+                    "start": {
+                      "line": 64,
+                      "column": 3,
+                      "offset": 946
+                    },
+                    "end": {
+                      "line": 64,
+                      "column": 13,
+                      "offset": 956
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 64,
+                  "column": 3,
+                  "offset": 946
+                },
+                "end": {
+                  "line": 64,
+                  "column": 13,
+                  "offset": 956
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 64,
+              "column": 1,
+              "offset": 944
+            },
+            "end": {
+              "line": 64,
+              "column": 13,
+              "offset": 956
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 54,
+          "column": 1,
+          "offset": 890
+        },
+        "end": {
+          "line": 64,
+          "column": 13,
+          "offset": 956
+        },
+        "indent": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      }
+    },
+    {
+      "type": "definition",
+      "identifier": "lihkg-link",
+      "label": "lihkg-link",
+      "title": null,
+      "url": "https://lihkg.com/thread/1338758/page/1",
+      "position": {
+        "start": {
+          "line": 66,
+          "column": 1,
+          "offset": 958
+        },
+        "end": {
+          "line": 66,
+          "column": 54,
+          "offset": 1011
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "definition",
+      "identifier": "japcowfb",
+      "label": "japcowfb",
+      "title": null,
+      "url": "https://www.facebook.com/nichigyu.hk/photos/a.145883252178237/1965904443509433",
+      "position": {
+        "start": {
+          "line": 67,
+          "column": 1,
+          "offset": 1012
+        },
+        "end": {
+          "line": 67,
+          "column": 91,
+          "offset": 1102
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "definition",
+      "identifier": "kengopage",
+      "label": "kengopage",
+      "title": null,
+      "url": "https://www.facebook.com/kengopage/photos/a.374061035988961/2448433605218350",
+      "position": {
+        "start": {
+          "line": 68,
+          "column": 1,
+          "offset": 1103
+        },
+        "end": {
+          "line": 68,
+          "column": 90,
+          "offset": 1192
+        },
+        "indent": []
+      }
+    },
+    {
+      "type": "definition",
+      "identifier": "japcowfb2",
+      "label": "japcowfb2",
+      "title": null,
+      "url": "https://www.facebook.com/nichigyu.hk/photos/a.145883252178237/1967794176653793",
+      "position": {
+        "start": {
+          "line": 69,
+          "column": 1,
+          "offset": 1193
+        },
+        "end": {
+          "line": 69,
+          "column": 92,
+          "offset": 1284
+        },
+        "indent": []
+      }
+    }
+  ],
+  "position": {
+    "start": {
+      "line": 1,
+      "column": 1,
+      "offset": 0
+    },
+    "end": {
+      "line": 69,
+      "column": 92,
+      "offset": 1284
+    }
+  }
+}

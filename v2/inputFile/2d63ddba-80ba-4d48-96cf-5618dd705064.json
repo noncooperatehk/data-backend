@@ -1,0 +1,62 @@
+{
+  "md": "",
+  "frontMatter": {
+    "name": "名代宇奈備長炭燒鰻魚飯專門店",
+    "inputId": "2d63ddba-80ba-4d48-96cf-5618dd705064",
+    "previewImageUrl": null,
+    "referenceArticleId": "ff57dde6-c791-486a-8e17-8a1fcee9c434",
+    "referenceInformation": "與日牛涮涮鍋專門店同為和心集團其他餐廳",
+    "status": "已查證",
+    "tags": [
+      "日式",
+      "餐飲"
+    ],
+    "addresses": [
+      {
+        "address": "銅鑼灣希慎廣場十二樓1202號舖",
+        "latitude": 22.279921,
+        "longitude": 114.183905,
+        "tags": [
+          "銅鑼灣",
+          "全香港島"
+        ]
+      },
+      {
+        "address": "尖沙咀iSQUARE三樓4號舖",
+        "latitude": 22.297273,
+        "longitude": 114.171917,
+        "tags": [
+          "尖沙咀",
+          "全九龍"
+        ]
+      },
+      {
+        "address": "坑口東港城第一層196號舖",
+        "latitude": 22.316646,
+        "longitude": 114.265232,
+        "tags": [
+          "尖沙咀",
+          "全九龍"
+        ]
+      },
+      {
+        "address": "黃埔天地第6期AEON STYLE地面G01號舖",
+        "latitude": 22.304207,
+        "longitude": 114.189874,
+        "tags": [
+          "紅磡",
+          "全九龍"
+        ]
+      },
+      {
+        "address": "大角咀奧海城二期地下 G73A 號舖",
+        "latitude": 22.317523,
+        "longitude": 114.163065,
+        "tags": [
+          "大角咀",
+          "全九龍"
+        ]
+      }
+    ]
+  }
+}
