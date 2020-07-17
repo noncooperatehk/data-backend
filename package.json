@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "ajv": "^6.10.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "noncooperatehk-data-handler": "^1.0.3"
   },
   "devDependencies": {
