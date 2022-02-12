@@ -2,7 +2,7 @@
   "name": "data-backend",
   "version": "1.0.0",
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "lodash": "^4.17.15",
     "noncooperatehk-data-handler": "^1.0.3"
   },
